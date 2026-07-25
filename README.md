@@ -85,3 +85,12 @@ The model can only be work better on pre-resized images without no background
 ## 2. Accuracy of the model
 The model is still only 25% to 30% accurate according to accuracy_score but i will make a better model where i will remove the pokemon with numbers like 'Flying Type', 'Fairy Type' and etc. which has low number of pokemon and merge them in 1 type 'Other Types'.
 i know its wrong but maybe the model will be more accurate.
+
+
+# REQUEST
+
+please star this repo 
+
+thanku
+
+![App Screenshot](./code-images/sad-thumbs-up.png)
